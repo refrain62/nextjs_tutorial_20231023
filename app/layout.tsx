@@ -6,6 +6,7 @@ export default function RootLayout({
     return (
         <html lang="ja">
             <body>
+                layout
                 {children}
             </body>
         </html>
